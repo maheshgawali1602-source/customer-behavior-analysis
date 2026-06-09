@@ -42,14 +42,6 @@ The dataset contains customer-related information such as:
 * Found important factors affecting purchases
 * Observed trends in customer behavior
 
-## 📸 Screenshots
-
-(Add your charts/screenshots here)
-
-## 🚀 Conclusion
-
-This project helps in understanding customer behavior, which can be useful for businesses to make data-driven decisions.
-
 ## 🔗 Project Link
 
 https://github.com/maheshgawali1602-source/customer-behavior-analysis
